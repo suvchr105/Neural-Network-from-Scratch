@@ -1,5 +1,8 @@
 # Custom Neural Network Implementation for MNIST Classification
 
+![Neural Network NumPy Tutorial_ Build from Scratch](https://github.com/user-attachments/assets/54490c8e-b4e9-4057-a32b-9aaf2031d1ad)
+
+
 A flexible and modular implementation of a neural network from scratch using NumPy, designed for the MNIST digit classification task. This implementation features various activation functions, weight initialization methods, and training optimizations including early stopping and L2 regularization.
 
 ## 🌟 Features
